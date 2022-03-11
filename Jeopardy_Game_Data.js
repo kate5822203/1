@@ -1,5 +1,5 @@
 // {Name: Jeopardy_Game_Data}
-// {Description: Jeopardy game dataset}
+// {Description: Jeopшшшшшшшardy game dataset}
 
 project.subjects ={
     'ESPN\'s TOP 10 ALL-TIME ATHLETES': [ 'TOP 10 ALL TIME ATHLETES', 'ESPN TOP 10 ALL TIME ATHLETES' ],
