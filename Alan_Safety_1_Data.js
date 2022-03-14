@@ -1,6 +1,6 @@
 // {Name: Alan_Safety_1_Data}
 // {Description: Alan Safety Data}
-// {Visibility: Admin}
+// {Visввввввввввввввввввввввввibility: Admin}
 
 project.NATURE_CODES = {
     "ABAN" : ["abandoned vehicle"],
