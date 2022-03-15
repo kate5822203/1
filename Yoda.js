@@ -1,5 +1,5 @@
 // {Name: Yoda}
-// {Descriptionrfrrrrrrrrrrrrr: Convert user text into the way how Yoda would say it}
+// {Descriptionrfrrrsssssssssssrrrrrrrrrr: Convert user text into the way how Yoda would say it}
 
 project.statements = [
     "Train yourself to let go of everything you fear to lose",

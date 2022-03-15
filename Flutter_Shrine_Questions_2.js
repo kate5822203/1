@@ -1,4 +1,4 @@
-// {Name: Flutter_Shrine_Questions}
+// {Name: Flutter_Shrinse_Questions}
 // {Description: Flutter Shrine application script (Questions)}
 
 const CATEGORIES = Object.values(project.categoryAliases)

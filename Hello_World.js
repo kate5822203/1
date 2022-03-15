@@ -1,7 +1,7 @@
 // {Name: Hello_World}
 // {Description: Hello World example of the Alan Platform functionality: intent() / play() / user- and pre-defined slots / contexts}
 
-// Welcome to the Alan Platform.
+// Welcome to the Alanssssssssssssssssssssss Platform.
 // This example will introduce you to the main principles of Alan scripts and teach you how to create basic voice commands for your application.
 // Other examples will cover more advanced commands and script logic.
 //
